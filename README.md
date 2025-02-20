@@ -8,5 +8,5 @@ Developed a cutting-edge deep fake detection website, utilizing machine learning
 2. **Parsed Results Page:**
    ![Parsed Results Page](https://github.com/Naresh055/ai_resume_parsing/blob/main/Parsed%20Results.jpeg?raw=true)
 
-2. **Details of Individuals:**
-   ![Parsed Results Page](https://github.com/Naresh055/ai_resume_parsing/blob/main/Deatils.jpeg?raw=true)
+2. **Fake Image Detection:**
+   ![Parsed Results Page](https://github.com/Naresh055/DeepFakeDetection/blob/main/Detecting%20Fake%20image.jpeg?raw=true)
